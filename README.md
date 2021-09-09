@@ -11,7 +11,7 @@ Four hidden layers with each 128 nodes (relu activation), a dropout rate of 0.5,
 
 Result: loss: 0.0107 - accuracy: 0.9468
 
-#Getting Started
+# Getting Started
 * Download the distribution code from https://cdn.cs50.net/ai/2020/spring/projects/5/traffic.zip and unzip it.
 * Download the data set for this project and unzip it. Move the resulting gtsrb directory inside of your traffic directory.
 * Inside of the traffic directory, run pip3 install -r requirements.txt to install this project’s dependencies: opencv-python for image processing, scikit-learn for ML-related functions, and tensorflow for neural networks.
